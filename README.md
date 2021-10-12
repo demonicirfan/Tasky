@@ -1,1 +1,3 @@
 # Tasky
+
+HTML, Bootstrap, JavaScript
